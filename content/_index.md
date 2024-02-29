@@ -55,7 +55,7 @@ features:
 
 # intro_video
 intro_video:
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -86,33 +86,19 @@ testimonials:
   image_right: "images/testimonials-02.png"
 
   testimonials_quotes:
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/05-i.jpg"
+    - quote: "We were a small family-run bakery struggling to compete with larger chains. Elevate helped us develop a targeted social media strategy that resonated with our local community. We've seen a significant increase in foot traffic and online orders, and we're so grateful for Elevate's expertise!"
+      name: "Rani Sharma"
+      designation: "CEO ,Sweet Treats, Mumbai"
+      image: "images/user-img/02-i.jpg"
 
-    - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/06-i.jpg"
-
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
+    - quote: "Taking our handcrafted textile business online was a daunting task. Elevate's team guided us through the process, creating    stunning visuals and crafting compelling brand storytelling. Now, we're receiving orders from customers across the globe!"
+      name: "Vikram Malhotra"
+      designation: "CEO, Threads of India, Delhi"
       image: "images/user-img/07-i.jpg"
 
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/08-i.jpg"
+    - quote: "Elevate helped us develop a creative and impactful marketing campaign for our new line of organic skincare products. Their understanding of the Indian beauty market was crucial in building brand recognition and trust among consumers. We've seen a tremendous increase in brand awareness and sales!"
+      name: "Priya Kapoor"
+      designation: "Marketing Head, Nature's Embrace, Bangalore"
+      image: "images/user-img/01-i.jpg"
 
-    - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/09-i.jpg"
-
-    - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-      name: "David Cameron"
-      designation: "CEO, Nexuspay"
-      image: "images/user-img/10-i.jpg"
 ---
