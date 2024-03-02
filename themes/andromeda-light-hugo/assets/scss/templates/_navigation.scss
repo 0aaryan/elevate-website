@@ -48,6 +48,13 @@ header {
       img {
         height: 30px;
       }
+      @media (max-width: 767px) {
+       img {
+       width: 120px;
+       height: 60px;
+
+      }
+    }
     }
   }
 
@@ -132,7 +139,7 @@ header {
         color: $primary-color;
         background-color: lighten($primary-color, 40);
       }
-      
+
       &.active {
         color: $primary-color;
         background-color: transparent;
