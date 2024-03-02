@@ -117,7 +117,7 @@ rel = "manifest"
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-white = "#150050"
+white = "#000000"
 black = "#ffffff"
 light = "#f8f9fa"
 primary_color = "#FB2576"
