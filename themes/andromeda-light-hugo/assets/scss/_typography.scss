@@ -47,3 +47,8 @@ ul, li {
    margin: 0;
    list-style-position: inside;
 }
+.header-title {
+   color: darken($primary_color, 13.33);
+   font-weight: 600;
+   line-height: 1.4;
+}

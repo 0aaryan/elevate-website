@@ -4,7 +4,7 @@ banner:
   title: "YOUR BRAND,<br>ELEVATED"
   button: "Book a call for free makreting plan"
   button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/banner-app.png"
+  image: "images/elevate_banner.png"
 
 # brands
 brands_carousel:
