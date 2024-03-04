@@ -55,12 +55,32 @@ features:
 
 # intro_video
 intro_video:
-  enable: false
-  subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-  video_thumbnail: "images/video-popup.jpg"
+  enable: true
+  subtitle: "Your Personalized Video Awaits"
+  title: "Discover a new level of engagement with our exclusive, personalized video content. Click below to view now!"
+  videos:
+    - title: "Video Title 1"
+      subtitle: "Video Subtitle 1"
+      description: "Video Description 1"
+      video_url: "https://www.youtube.com/embed/kColcQopvNQ"
+      video_thumbnail: "images/thumbnail1.png"
+    - title: "Video Title 2"
+      subtitle: "Video Subtitle 2"
+      description: "Video Description 2"
+      video_url: "https://youtube.com/embed/_9doiaMQnoo"
+      video_thumbnail: "images/thumbnail2.png"
+    - title: "Video Title 3"
+      subtitle: "Video Subtitle 3"
+      description: "Video Description 3"
+      video_url: "https://www.youtube.com/embed/6arGI69o_wI"
+      video_thumbnail: "images/thumbnail3.png"
+    - title: "Video Title 4"
+      subtitle: "Video Subtitle 4"
+      description: "Video Description 4"
+      video_url: "https://www.youtube.com/embed/21Ch0RlcUvo"
+      video_thumbnail: "images/thumbnail4.png"
+
+
 
 # how_it_works
 how_it_works:
@@ -78,7 +98,7 @@ how_it_works:
 
 # testimonials
 testimonials:
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
