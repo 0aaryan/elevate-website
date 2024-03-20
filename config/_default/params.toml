@@ -58,10 +58,10 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["Marketing", "SEO", "Digital Marketing", "Business", "Elevate"]
+description = "Elevate is a modern and clean Hugo theme for digital marketing, SEO, and business websites. It is designed to help you grow your business and increase your revenue."
+author = "Elevate"
+image = "images/banner.png"
 
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
@@ -75,9 +75,9 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
+content = "<p style='color: black;'>We use cookies to ensure you get the best experience on our website.</p>"
 button = "I Accept"
 
 ############################# social site ########################

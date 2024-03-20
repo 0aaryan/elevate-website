@@ -2,8 +2,8 @@
 # banner
 banner:
   title: "YOUR BRAND,<br>ELEVATED"
-  button: "Book a call for free makreting plan"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button: "Book a call for free marketing plan"
+  button_link: "https://elevateyourbusiness.in/contact/"
   image: "images/banner.png"
 
 # brands
