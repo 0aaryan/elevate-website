@@ -43,9 +43,9 @@ link = "https://gethugothemes.com/products/andromeda/"
 
 # contact information
 [contact_info]
-address = "2118 Thornridge Cir. Syracuse, Connecticut 35624"
-phone = ["+704-555-0127", "+205-857-2321", "+002-569-6969"]
-email = ["info@andromeda.io", "smith@anderson.io", "john@anderson.io"]
+address = "Sirsa, Haryana, India"
+phone = ["+91 93544 44417","+91 80596 72769"]
+email = ["elevateyourbusinesswithus@gmail.com"]
 
 # call-to-action
 [cta]
@@ -82,21 +82,21 @@ button = "I Accept"
 
 ############################# social site ########################
 [[social]]
-title = "Andromeda"
-icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
+# title = "Andromeda"
+# icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+# link = "#!"
 
-[[social]]
-title = "AndromedaTweet"
-icon = "lab la-twitter"  # https://icons8.com/line-awesome
-link = "#!"
+# [[social]]
+# title = "AndromedaTweet"
+# icon = "lab la-twitter"  # https://icons8.com/line-awesome
+# link = "#!"
 
-[[social]]
-title = "AndromedaIn"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+# [[social]]
+# title = "AndromedaIn"
+# icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+# link = "#!"
 
-[[social]]
-title = "AndromedaPin"
-icon = "lab la-pinterest" # https://icons8.com/line-awesome
-link = "#!"
+# [[social]]
+# title = "AndromedaPin"
+# icon = "lab la-pinterest" # https://icons8.com/line-awesome
+# link = "#!"
